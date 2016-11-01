@@ -1,4 +1,5 @@
 
+// Vin added this line
 //function to add two numbers
 function calc_add (a,b){
 	var c = a+b;
