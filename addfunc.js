@@ -5,3 +5,4 @@ function calc_add (a,b){
 	return c;
 }
 document.write(calc_add(1,2));
+document.write("good job");
